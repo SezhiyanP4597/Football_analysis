@@ -10,7 +10,7 @@ This project demonstrates how to track football players in a video using a YOLOv
   
 ```bash
 pip install ultralytics supervision 
-
+```
 Make sure to place your input video as video.mp4 and your model weights as best.pt in the same directory, or update the paths accordingly in the script.
 
 ## Notes
