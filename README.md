@@ -15,6 +15,7 @@ Install the necessary Python libraries using pip:
 pip install ultralytics supervision
 
 ## Usage
+
 ```bash
 python main.py
 
