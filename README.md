@@ -18,7 +18,7 @@ pip install ultralytics supervision
 ```bash
 python main.py
 ```
-Make sure to place your input video as video.mp4 and your model weights as best.pt in the same directory, or update the paths accordingly in the script.
+Make sure to place your input video as ```video.mp4``` and your model weights as ```best.pt``` in the same directory, or update the paths accordingly in the script.
 
 ## Notes
 - This example assumes a YOLOv11 model interface similar to YOLOv8. You may need to modify the code if you use an actual model.
